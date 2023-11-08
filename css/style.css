@@ -97,6 +97,11 @@ a {
   justify-content: center;
   align-items: center;
   gap: 12px;
+  cursor: pointer;
+}
+
+.perfume-button:hover {
+  filter: contrast(1.75) brightness(75%);
 }
 
 .perfume-button-text {
